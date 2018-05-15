@@ -1,0 +1,16 @@
+body{
+    font-family: 微軟正黑體;
+}
+.headerBg{
+    background-image: url('../img/Hero.png');
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size: cover;
+    height: 400px;
+}
+.footer{
+    background-color: rgba(89, 34, 219, 0.856);
+}
+.sectionHeight{
+min-height: calc(100vh - 400px - 140px );
+}
